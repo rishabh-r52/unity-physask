@@ -1,0 +1,519 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.SettingsProvider.Editor.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj",
+        "projectName": "Unity.VisualScripting.Core",
+        "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj",
+        "packagesPath": "C:\\Users\\Rishabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\repositories\\unity-physask\\Temp\\obj\\Debug\\Unity.VisualScripting.Core\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Core.Editor",
+        "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.Editor.csproj",
+        "packagesPath": "C:\\Users\\Rishabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\repositories\\unity-physask\\Temp\\obj\\Debug\\Unity.VisualScripting.Core.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\UnityEditor.TestRunner.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.csproj",
+        "projectName": "Unity.VisualScripting.Flow",
+        "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.csproj",
+        "packagesPath": "C:\\Users\\Rishabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\repositories\\unity-physask\\Temp\\obj\\Debug\\Unity.VisualScripting.Flow\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Flow.Editor",
+        "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.Editor.csproj",
+        "packagesPath": "C:\\Users\\Rishabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\repositories\\unity-physask\\Temp\\obj\\Debug\\Unity.VisualScripting.Flow.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\UnityEditor.TestRunner.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.SettingsProvider.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.SettingsProvider.Editor.csproj",
+        "projectName": "Unity.VisualScripting.SettingsProvider.Editor",
+        "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.SettingsProvider.Editor.csproj",
+        "packagesPath": "C:\\Users\\Rishabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\repositories\\unity-physask\\Temp\\obj\\Debug\\Unity.VisualScripting.SettingsProvider.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.State.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\UnityEditor.TestRunner.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.State.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.State.csproj",
+        "projectName": "Unity.VisualScripting.State",
+        "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.State.csproj",
+        "packagesPath": "C:\\Users\\Rishabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\repositories\\unity-physask\\Temp\\obj\\Debug\\Unity.VisualScripting.State\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Core.csproj"
+              },
+              "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\Unity.VisualScripting.Flow.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\repositories\\unity-physask\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\repositories\\unity-physask\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "C:\\Projects\\repositories\\unity-physask\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\Rishabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\repositories\\unity-physask\\Temp\\obj\\Debug\\UnityEditor.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Projects\\repositories\\unity-physask\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Projects\\repositories\\unity-physask\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\repositories\\unity-physask\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\repositories\\unity-physask\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "C:\\Projects\\repositories\\unity-physask\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\Rishabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\repositories\\unity-physask\\Temp\\obj\\Debug\\UnityEngine.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
